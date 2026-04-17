@@ -1,27 +1,125 @@
-<h1 align="center">Hi 👋, I'm Pasindu Kaveesha</h1>
-<h3 align="center">a fellow Software engineering nerd who's doing his best to become a jack of all trades</h3>
+<!-- 🔥 HEADER BANNER -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasindukaveesha&label=Profile%20views&color=0e75b6&style=flat-square" alt="pasindukaveesha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pasindukaveesha" alt="pasindukaveesha" /></a> </p>
-
-- 🔭 I’m currently working on **AI Expense Tracker**
-
-- 🌱 I’m currently learning **Python, C++, SpringBoot**
-
-- 💬 Ask me about **Flutter, Java, JS**
-
-- 📫 How to reach me **mattersmind588@gmail.com**
-
-- ⚡ Fun fact **i love graphic designing**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Pasindu%20Kaveesha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<!-- 🔥 TYPING ANIMATION -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindukaveesha&show_icons=true&theme=dark&locale=en&layout=compact" alt="pasindukaveesha" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Flutter+Developer;Backend+Builder;AI+Enthusiast;Future+Tech+Entrepreneur" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindukaveesha&show_icons=true&theme=dark&locale=en" alt="pasindukaveesha" /></p>
+---
+
+## 🧠 About Me
+
+```text
+💻 Passionate developer building real-world applications
+🚀 Currently working on AI-powered solutions
+🎯 Goal: Become a versatile full-stack engineer
+🎨 Side skill: Graphic Designing
+```
+
+* 🔭 Working on: **AI Expense Tracker**
+* 🌱 Learning: **Python • C++ • Spring Boot**
+* 💬 Ask me about: **Flutter • Java • JavaScript**
+* 📫 Email: **[mattersmind588@gmail.com](mailto:mattersmind588@gmail.com)**
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,python,cpp,spring,nodejs,express,mysql,sqlite,firebase,git,postman,react&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI Expense Tracker
+
+> Smart expense tracking with AI insights
+
+* 📱 Flutter frontend
+* ⚙️ Backend integration (Spring Boot)
+* 📊 Data-driven insights
+
+---
+
+### 📊 YouTube Analyzer
+
+> Analyze performance and trends of YouTube content
+
+* 📈 Data visualization
+* 🧠 Smart metrics tracking
+* 🔍 Content insights
+
+---
+
+### 🚗 Vehicle / POS Systems
+
+> Real-world business systems
+
+* 🧾 Java Swing POS system
+* 🚚 Fleet & vehicle management modules
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindukaveesha&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindukaveesha&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindukaveesha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build production-ready apps
+* 🧠 Master backend systems & APIs
+* 🤖 Integrate AI into real-world apps
+* 💰 Start earning through development
+
+---
+
+## 🧩 Current Focus
+
+```text
+⚙️ Backend Development (Spring Boot)
+📱 Flutter App Architecture
+🧠 AI + Automation Projects
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/pasindukaveesha">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Dev Mindset
+
+> “Consistency builds skill. Skill builds confidence. Confidence builds success.”
+
+---
+
+<p align="center">
+  ⚡ Built with ambition, late nights, and debugging rage ⚡
+</p>
+
+<!-- 🔥 FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer"/>
+</p>
