@@ -1,130 +1,129 @@
-<!-- 🔥 TOP BANNER -->
+<!-- 🌌 HERO HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pasindu%20Kaveesha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pasindu%20Kaveesha&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🔥 TYPING ANIMATION -->
+<!-- ⚡ TYPING INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Software+Engineer+in+Progress;Flutter+Specialist;Backend+Architect+in+the+Making;AI+Explorer;Building+Cool+Sh*t+Daily" />
-</p>
-
-<!-- 🔥 BADGES -->
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pasindukaveesha?label=Followers&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/pasindukaveesha?label=Stars&style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=pasindukaveesha&label=Profile%20Views&style=for-the-badge&color=brightgreen"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=650&lines=Software+Engineer+in+Progress;Flutter+%7C+Spring+Boot+%7C+AI+Builder;Turning+Ideas+Into+Real+Systems;Clean+Code+%7C+Big+Ambitions" />
 </p>
 
 ---
 
-# 🧠 Who Am I?
+# 🧠 WHO AM I?
 
-```text
-A developer who doesn’t just learn — builds.
-Turning ideas into real-world software.
-Obsessed with growth, speed, and clean systems.
+```text id="w1kq8a"
+A developer building systems, not just apps.
+Focused on real-world software, clean architecture, and scalable thinking.
 ```
 
 * 🔭 Building: **AI Expense Tracker**
-* 🌱 Learning: **Python • C++ • Spring Boot**
-* 💬 Expertise: **Flutter • Java • JavaScript**
-* 🎨 Bonus: **Graphic Designing**
-* 📫 Email: **[mattersmind588@gmail.com](mailto:mattersmind588@gmail.com)**
+* ⚙️ Focus: **Backend + Flutter + AI Integration**
+* 🧠 Learning: **Spring Boot • Python • System Design**
+* 🎨 Side skill: **UI / Graphic Design**
+* 📫 Contact: **[mattersmind588@gmail.com](mailto:mattersmind588@gmail.com)**
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ TECH STACK (REAL WORLD READY)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,js,python,cpp,spring,nodejs,express,mysql,sqlite,firebase,git,postman,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,python,cpp,js,nodejs,express,mysql,sqlite,firebase,git,postman,react&theme=dark" />
 </p>
 
 ---
 
-# 🚀 Projects That Matter
+# 🚀 WHAT I BUILD
 
-### 🧠 AI Expense Tracker
+## 🧠 AI Expense Tracker
 
-> AI-powered financial tracking system
-> ⚙️ Flutter + Backend + Smart Insights
+> Smart finance system powered by AI
 
----
-
-### 📊 YouTube Analyzer
-
-> Data-driven YouTube performance analyzer
-> 📈 Metrics • Trends • Insights
+* 📱 Flutter frontend
+* ⚙️ Spring Boot backend
+* 📊 Smart analytics + insights
+* 🤖 AI-assisted tracking logic
 
 ---
 
-### 🚗 Business Systems
+## 📊 YouTube Analyzer
+
+> Data-driven content intelligence system
+
+* 📈 Performance tracking
+* 🔍 Engagement analytics
+* 🧠 Insight generation
+
+---
+
+## 🏢 Business Systems
 
 > Real-world software solutions
-> 🧾 POS System (Java Swing)
-> 🚚 Fleet Management System
+
+* 🧾 Java Swing POS system
+* 🚚 Fleet & vehicle management
+* 🗄️ Database-driven workflows
 
 ---
 
-# 📊 GitHub Power
+# 📊 GITHUB PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindukaveesha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindukaveesha&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=pasindukaveesha&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindukaveesha&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindukaveesha&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindukaveesha&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph (Animated)
+# 📈 CONTRIBUTION ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindukaveesha&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindukaveesha&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 🐍 Snake Eating Contributions (YES THIS IS REAL)
+# 🎯 CURRENT MISSION
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pasindukaveesha/pasindukaveesha/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-# 🎯 Current Mission
-
-```text
-⚙️ Master Backend Engineering
-📱 Build scalable Flutter apps
-🤖 Integrate AI into everything
-💰 Start earning through tech
+```text id="x7m2lp"
+⚙️ Master backend architecture (Spring Boot)
+📱 Build production-level Flutter apps
+🤖 Integrate AI into real systems
+💰 Turn skills into income streams
 ```
 
 ---
 
-# 🧠 Dev Philosophy
+# 🧠 DEV PHILOSOPHY
 
-> “Stay consistent. Stay dangerous. Outwork your old self.”
+> “Build things that solve real problems. Everything else is noise.”
 
 ---
 
-# 🤝 Connect
+# 🤝 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/pasindukaveesha">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:mattersmind588@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00c6ff?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- 🔥 FOOTER -->
+# ⚡ FINAL VIBE
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  💻 Built with consistency • curiosity • caffeine • late-night debugging
 </p>
