@@ -59,16 +59,7 @@
 </tr>
 </table>
 
-<div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-Intermediate-22D3EE?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-22D3EE?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Intermediate-22D3EE?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Intermediate-22D3EE?style=flat-square&logo=gnubash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-22D3EE?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-22D3EE?style=flat-square&logo=nodedotjs&logoColor=white)
-
-</div>
 
 <br>
 
@@ -76,14 +67,7 @@
 
 <br>
 
-## ⚡ Current Focus
 
-```
-   Linux  ──▶  Docker  ──▶  CI/CD  ──▶  Cloud
-                                          │
-                                          ▼
-                                     Automation
-```
 
 Right now: strengthening Linux administration, going deeper into DNS/networking, and building a neural network from scratch to understand how the fundamentals actually work under the hood.
 
