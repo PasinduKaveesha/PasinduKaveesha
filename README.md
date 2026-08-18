@@ -205,53 +205,7 @@ Utility that collects, compresses, and timestamps log files into organized archi
 
 <div align="center">
 
-# 🔧 Currently Building
 
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7c3aed&height=60&text=🧠%20Neural%20Network&fontColor=ffffff&fontSize=15&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-![Status](https://img.shields.io/badge/status-active-22D3EE?style=flat-square)
-
-Building one from scratch to understand layers, weights, biases, and activation functions from first principles.
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:22d3ee&height=60&text=🌐%20DNS%20%26%20Networking&fontColor=ffffff&fontSize=15&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-![Status](https://img.shields.io/badge/status-active-22D3EE?style=flat-square)
-
-Going deeper into how DNS resolution and core networking actually work under the hood.
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7c3aed&height=60&text=⚙️%20Infra%20%26%20Automation&fontColor=ffffff&fontSize=15&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-![Status](https://img.shields.io/badge/status-ongoing-22D3EE?style=flat-square)
-
-Continuously building and automating Linux server setups, SSH workflows, and deployment pipelines.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2600&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=%3E+currently+compiling+knowledge...;%3E+next+milestone%3A+cloud+%2B+kubernetes;%3E+always+shipping+something" alt="building ticker" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:7c3aed,100:22d3ee&height=4" width="100%" />
-
-<br>
-
-<div align="center">
 
 # 📫 Let's Connect
 
